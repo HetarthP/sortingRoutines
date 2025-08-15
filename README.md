@@ -12,7 +12,7 @@ A Java-based collection of classic sorting algorithm implementations. This proje
 - ✅ (Optional) Heap Sort & Shell Sort for advanced use    
     
 Each algorithm is implemented with readability and modularity as well       
-      
+       
    
        
       
