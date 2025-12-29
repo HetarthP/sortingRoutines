@@ -5,7 +5,7 @@ A Java-based collection of classic sorting algorithm implementations. This proje
 ## 🚀 Features    
    
 - ✅ Bubble Sort   
-- ✅ Selection Sort    
+- ✅ Selection Sort      
 - ✅ Insertion Sort         
 - ✅ Merge Sort          
 - ✅ Quick Sort   
